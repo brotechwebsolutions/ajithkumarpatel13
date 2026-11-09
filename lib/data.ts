@@ -48,7 +48,7 @@ export interface Profile {
 
 export const profile: Profile = {
   name: "Ajith Kumar Rayeeshetti",
-  title: "Software Engineer | Backend & Full-Stack Developer",
+  title: "Aspiring Software Engineer | Backend & Full-Stack Developer",
   stack: "Java · Spring Boot · React.js · Next.js · TypeScript · MySQL",
   bio: "B.Tech Computer Science (Artificial Intelligence) student at Parul University, graduating in 2027. I build end-to-end applications using Java, Spring Boot, React.js, Next.js, and Node.js. I have working knowledge of REST APIs, JWT authentication, role-based access control, database design, real-time messaging, Docker deployment, and AI integration.",
   email: "ajithkumarpatel03@gmail.com",
