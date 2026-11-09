@@ -221,7 +221,7 @@ export const projects: Project[] = [
       "Socket.IO",
       "REST APIs",
     ],
-    link: "https://github.com/Munishwarreddy/kisanmithra-farmer",
+    link: "https://github.com/ajithkumarrayeeshetti/kisan-mithra",
     shots: [],
   },
 ];
